@@ -9,6 +9,7 @@ Yizhe is currently a PhD student in Statistics.
 Email: alexhe5741[at]gmail.com
 
 #### Education
+PhD., Statistics, University of Texas at Dallas, 2024-2029
 M.S., Statistics, University of Illinois at Urbana Champaign, 2021—2023.\
 B.S., Statistics, University of Illinois at Urbana Champaign, 2016—2021.\
 B.S., Mathematics, University of Illinois at Urbana Champaign, 2016—2021.
