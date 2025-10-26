@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![YizheHe](https://img.shields.io/badge/YizheHe-github-blue?logo=github)](https://github.com/YizheHe)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Yizhe is currently a PhD student in Statistics.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: alexhe5741[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Statistics, University of Illinois at Urbana Champaign, 2021—2023.\
+B.S., Statistics, University of Illinois at Urbana Champaign, 2016—2021.\
+B.S., Mathematics, University of Illinois at Urbana Champaign, 2016—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Generative Model, AI powered Bayesian methodology.
 
