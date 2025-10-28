@@ -15,5 +15,5 @@ B.S., Statistics, University of Illinois at Urbana Champaign, 2016—2021.\
 B.S., Mathematics, University of Illinois at Urbana Champaign, 2016—2021.
 
 #### Research Interests
-Deep Learning, Generative Model, AI powered Bayesian methodology.
+Deep Learning, Generative Model, Reinforcement Learning.
 
